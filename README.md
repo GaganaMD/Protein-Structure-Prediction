@@ -75,7 +75,7 @@ After installing the required libraries, you can verify the installation by runn
 
 ```sh
 pip list | grep -E "torch|transformers|gradio"
-
+```
 ## Accessing the Gradio Interface
 
 Once you have installed the necessary libraries and verified their installation, you can access the Gradio interface to start using Esmfold for protein folding predictions and visualizations.
