@@ -1,6 +1,6 @@
 # 🧬 Esmfold
 
-Esmfold is a Gradio application designed to provide an interactive user interface for protein folding predictions and visualizations. This application leverages the `EsmForProteinFolding` model from Hugging Face, making advanced protein structure prediction accessible and user-friendly.
+
 
 ## Project Metadata
 
